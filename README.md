@@ -68,11 +68,10 @@ This project is licensed under the [MIT License](https://opensource.org/license/
 
 ### Contact
 
-If you have any questions or suggestions, please feel free to contact us at [imolepeter5@gmail.com].
+If you have any questions or suggestions, please feel free to contact us at [Peter Latona] (imolepeter5@gmail.com).
 
 ---
 
 Happy coding!
 ```
 
-Replace the placeholders like `your-username`, `your-email@example.com`, and others with your specific project details. This README provides a structured introduction to your Solana Mobile Stack project and helps others understand how to use and contribute to it.
