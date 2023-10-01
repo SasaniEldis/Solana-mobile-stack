@@ -1,18 +1,18 @@
-```
-## Solana Mobile Stack (SMS) Project
 
-### Overview
+##Solana Mobile Stack (SMS) Project
+
+###Overview
 
 The Solana Mobile Stack (SMS) project is a mobile application built using Flutter and the Solana blockchain to demonstrate the integration of SMS into a mobile app. This project provides a foundation for building decentralized mobile applications on the Solana network.
 
-### Features
+###Features
 
 - Initialize a Solana wallet.
 - Send transactions on the Solana blockchain.
 - Retrieve account and token balances.
 - Build a user interface (UI) to display wallet information and transaction history.
 
-### Prerequisites
+###Prerequisites
 
 Before getting started, ensure you have the following prerequisites:
 
@@ -20,30 +20,26 @@ Before getting started, ensure you have the following prerequisites:
 - Basic knowledge of Solana blockchain concepts.
 - Familiarity with mobile app development.
 
-### Getting Started
+###Getting Started
 
 1. Clone this repository to your local machine:
 
-   ```bash
-   git clone https://github.com/your-username/solana-mobile-stack.git
+   ```git clone https://github.com/your-username/solana-mobile-stack.git
    ```
 
 2. Navigate to the project directory:
 
-   ```bash
-   cd solana-mobile-stack
+   ```cd solana-mobile-stack
    ```
 
 3. Install dependencies:
 
-   ```bash
-   flutter pub get
+   ```flutter pub get
    ```
 
 4. Run the project:
 
-   ```bash
-   flutter run
+   ```flutter run
    ```
 
 ### Usage
@@ -63,7 +59,7 @@ Contributions to this project are welcome! If you want to contribute:
 
 ### License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://opensource.org/license/mit/).
 
 ### Acknowledgments
 
